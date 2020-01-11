@@ -11,6 +11,6 @@ Project aim to use inexpensive sensor to monitoring movement of construction by 
 # Basic Showcase 
 - [Sensor]
 - Keyword: Accelerometer, Inexpensive GPS  
--[Microcontroller] 
--keyword: Arduino
--[Lora] 
+- [Microcontroller] 
+- keyword: Arduino
+- [Lora] 
